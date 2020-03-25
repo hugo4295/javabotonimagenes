@@ -37,7 +37,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Imagenes en boton");
+        jLabel1.setText("Imagenes en boton - practica 1");
 
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/recursos/imagen/netvibes.png"))); // NOI18N
         jButton1.setText("Suma");
@@ -59,7 +59,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jButton2)
                             .addComponent(jButton1))))
-                .addContainerGap(136, Short.MAX_VALUE))
+                .addContainerGap(57, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
